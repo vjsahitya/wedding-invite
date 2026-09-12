@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <circle cx="16" cy="16" r="16" fill="#8B1E2B"/>
+  <circle cx="16" cy="16" r="13" fill="none" stroke="#F7F0E8" stroke-width="1.6"/>
+  <text x="10.3" y="17" text-anchor="middle" dominant-baseline="middle" font-family="Georgia, 'Liberation Serif', Times, serif" font-size="13" font-weight="700" fill="#F7F0E8">T</text>
+  <text x="16" y="16.7" text-anchor="middle" dominant-baseline="middle" font-family="Georgia, 'Liberation Serif', Times, serif" font-size="8" fill="#C17A52">&amp;</text>
+  <text x="21.7" y="17" text-anchor="middle" dominant-baseline="middle" font-family="Georgia, 'Liberation Serif', Times, serif" font-size="13" font-weight="700" fill="#F7F0E8">S</text>
+</svg>
